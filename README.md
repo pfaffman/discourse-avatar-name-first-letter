@@ -11,4 +11,6 @@ This plugin allows you to use
 
 to have the avatar letter be the first letter or number in the user's name. If there is no name or it contains no letters or number, the first letter of the username is used. This affects all users who do not have a custom avatar. If the user changes their name, the avatar letter will change accordingly.
 
+You need to change the value of the `external system avatars url` site setting for this plugin to work.
+
 To install, follow the [Install a Plugin howto](https://meta.discourse.org/t/install-a-plugin/19157?u=pfaffman).
